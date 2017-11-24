@@ -13,3 +13,4 @@ This is an example of a **XML** without attributes _and_ without namespaces:
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
  </note>
+
