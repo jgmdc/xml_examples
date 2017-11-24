@@ -6,7 +6,7 @@ Examples of XML done in LMSGI class. The extension of a XML file is `.xml`.
 
 This is an example of a **XML** without attributes _and_ without namespaces:
 
-```
+```xml
 <note>
   <to>Tove</to>
   <from>Jani</from>
