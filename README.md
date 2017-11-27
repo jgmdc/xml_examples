@@ -11,6 +11,6 @@ This is an example of a **XML** without attributes _and_ without namespaces:
   <to>Tove</to>
   <from>Jani</from>
   <heading>Reminder</heading>
-  <body>Don't forget me this weekend!</body>
+  <body>Don't forget all me this weekend!</body>
  </note>
 
